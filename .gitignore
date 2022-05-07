@@ -1,0 +1,9 @@
+/.venv
+/.vscode
+/.idea
+/postgres-data
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.sqlite
